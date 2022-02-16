@@ -23,7 +23,25 @@ Based on the requirements of achieving user's and owner's goals and stories, her
 </ul>
 
 ### <em>Structure</em>
-### <em>Surface</em>
-### <em>Skeleton</em>
+#### <b>Home Page</b>
+The Home Page for this app has a nav bar for users to easily navigate their way through the site. There's a title informing users that they're on Piece of Cake's Management page and text explaining to users that it's not their customer page.  There's a carousel on the homepag with icond for social media and a webpage which all link to Piece of Cake's social media pages and their customer webpage. At the bottom of the home page there's a footer disclaiming that this page if for Piece of Cake to manage tasks, reiterating that it's not their customer page.
+#### <b>Log In</b>
+The Log In page has a nav bar for useres to navigate their way through the page. The page has a form for useres to log in and underneath the form a paragragh text with a link to register if users haven't done so already. Once a user has logged in successfully they will be redirected to the profile users page with a message saying the user's name and welcoming them.  Once logged in user won't have the option to log in or register but to log out. 
+#### <b>Register</b>
+The Register page has a nav bar in place for users to navigate through the webpage. On the page there is a form for new users to register a new account. If the user already has an account there in a lik for them to follow underneath the form which will redirect them to the log in page. If a user already has an account but tried to register again with the same details a message will appear saying username already exists. 
+#### <b>Tasks to be completed</b>
+The Tasks to be completed page has a nav bar the same as all the pages for users to easily navigate through the page.  There is a search bar for users to search tasks, if the task exists then it'll come up with the tasks the user is searching for and if not they'll get an error message saying no results found. The tasks are in a dropdown form, useres can see the task name, category, description and authour.  If they were the user that created the task they can also delete or edit the task. 
+#### <b>Profile user page</b>
+The profile user page is visible on the nav bar when the user is logged in and the user is redirected to the page when they log in. The page has the nav bar like all the other pages so users can move around the site easily. There is a card on the page that has the users username on it as well so users know they're on the right account.
+#### <b>New Task</b>
+The new task page is only available to users that have an account and are logged into the site. On the new task page users can see and use the navigation bar to go into different pages on the site.  The new task page has a form for users to create new tasks.  On the form there is a dropdown for users to select a category, task name field, task description field, due date calendar and a toggle switch to choose whether or not the task is urgent. At the bottom of the form there is an add task button which when clicked and the form fields are complete it will add the new task to the tasks to be completed page.
+#### <b>Log out</b>
+When the log out link in the nav bar is clicked it logs the user out and takes them to the log in page with a message saying you have been logged out.
+#### <b>Manage Categories (if logged in as admin user)</b>
+The Manage Categories page is only available to the admin user. This page has the nav bar element as well for users to work their way through the site. On the page there's cards with all the task categories. each one has buttons that allow the admin user to delete or edit the category. At the top of the page there's an add category button which takes the user to a form page to create a new category which when it's filled out it adds to the Manage Category page.
 
+### <em>Surface</em>
+The page was designed in mind of Piece of Cake and as their colour scheme is pink and purple themed it was decided to keep it the same for there management page. The colour of the page is interesting and keeps users. attention due to the vibrant colours of the page. 
+### <em>Skeleton</em>
+The website has been designed to be compatible with all screen sizes, they have been tested on iPad Pro, iPhone and on normal browser screen. Wireframes for this project can be found <a href="#" target="_blank">here</a>.
 
