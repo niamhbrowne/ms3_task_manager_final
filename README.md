@@ -170,11 +170,5 @@ This project has passed the necessary validation tests listed below.
 <li>Enabled automatic deployment on Heroku from github so when I pushed my code from my gitpod workspace to my github repository it also pushed the code over to Heroku</li>
 </ol>
 
-
-
-Created requirements.txt file
-Added Procfile for Heroku
-Added, commited and pushed code to Heroku
-
 ### Database
-Mongo DB Flask
+I installed Flask Framework to my gitpod workspace and then used the Mongo DB for the project.
