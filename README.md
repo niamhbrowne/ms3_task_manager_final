@@ -152,8 +152,22 @@ This project has passed the necessary validation tests listed below.
 
 ## Version Control
 ### Gitpod and Github
+<ol>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>
 
 ### Deployment
+<ol>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>
 
 ### Database
 Mongo DB Flask
