@@ -93,4 +93,69 @@ The website has been designed to be compatible with all screen sizes, they have 
 <li>Stackoverflow</li>
 <li>Code Institute Tutor Support</li>
 <li>Materialize for forms, carousel, navbar, hex-colors</li>
+<li>Random Key Gen for the secret key in the env.py file</li>
+</ul>
+
+## Testing
+### User Stories
+### <em>Site User Stories</em>
+<ol>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+
+### <em>Site Owner User Stories</em>
+<ol>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+
+### User Stories
+### <em>Site User Stories Fulfilment</em>
+<ol>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+
+### <em>Site Owner Stories Fulfilment</em>
+<ol>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ol>
+
+### Validation
+This project has passed the necessary validation tests listed below.
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Python</li>
 </ul>
