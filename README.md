@@ -52,11 +52,12 @@ The website has been designed to be compatible with all screen sizes, they have 
 <li>Create user/ registration functionality</li>
 <li>Log in functionality</li>
 <li>Log out functionality</li>
-<li>Add, remove and edit taskfunctionality</li>
+<li>Add, remove and edit task functionality</li>
 <li>Search bar functionality</li>
 <li>Nav bar</li>
 <li>Carousel with images linking to social media pages and Piece of cakes other website for customer</li>
 <li>List of tasks that users can view when logged into the page</li>
+<li>Admin users can add, delete and remove categories</li>
 </ul>
 
 ### Features Left to Impliment
@@ -78,4 +79,18 @@ The website has been designed to be compatible with all screen sizes, they have 
 <li>Materialize</li>
 <li>Flask</li>
 <li>Heroku</li>
+</ul>
+
+## Resources
+<ul>
+<li>Google for help looking up solutions to problems</li>
+<li>Google images for soical media and webpage icons on home page</li>
+<li>Piece of Cake's Facebook, Instagram, TikTok and webpage links. for carousel on home. page</li>
+<li>Code institute followed tutorials for parts of the project and to learn how to use Flask</li>
+<li>Slack asked other members for help and advice</li>
+<li>W3schools</li>
+<li>Font Awesome used icons for headings throughout the project</li>
+<li>Stackoverflow</li>
+<li>Code Institute Tutor Support</li>
+<li>Materialize for forms, carousel, navbar, hex-colors</li>
 </ul>
