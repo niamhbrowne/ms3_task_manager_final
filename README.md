@@ -99,65 +99,55 @@ The website has been designed to be compatible with all screen sizes, they have 
 ## Testing
 ### User Stories
 ### <em>Site User Stories</em>
+As a site user I want to be able to do the following:
 <ol>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Navigate through the page easily</li>
+<li>Register to make an account</li>
+<li>Log into an account</li>
+<li>Log out of my account</li>
+<li>View tasks that my employer and co-workers want completed</li>
+<li>Add my own tasks and be able to edit or delete tasks I've created</li>
+<li>Search for tasks easily instead of looking through long lists</li>
 </ol>
 
 ### <em>Site Owner User Stories</em>
+As the site owner I want to be able to do the following:
 <ol>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Navigate through the page easily</li>
+<li>Make sure users have to have an account to create a task</li>
+<li>Manage categories through the admin account only</li>
+<li>Create, delete and edit tasks</li>
+<li>Log in and Out of the page</li>
 </ol>
 
 ### User Stories
 ### <em>Site User Stories Fulfilment</em>
 <ol>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Users can navigate through the page easily using the nav bar</li>
+<li>Users are able to register new accounts</li>
+<li>Log in functionality for users that are registered with an account</li>
+<li>Log out functionality so users have more privacy when closing the page down</li>
+<li>Tasks created by all users are visible on tasks to be completed page</li>
+<li>Users can create, remove and edited their own tasks</li>
+<li>Search bar is functioning on tasks to be completed page so users don't have to search through loads of tasks</li>
 </ol>
 
 ### <em>Site Owner Stories Fulfilment</em>
 <ol>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>Site owner can navigate through the page easily using the nav bar</li>
+<li>An account is necessary in order to create a task</li>
+<li>Admin account can manage categories through the website. The owner can add, remove and edit categories through the manage categories page which only the admin account can view</li>
+<li>The site owner can create, delete and edit tasks on the site as well as the site users if they have an account created</li>
+<li>Site owner is able to log in and out of their accounts</li>
 </ol>
 
 ### Validation
 This project has passed the necessary validation tests listed below.
 <ul>
-<li>HTML</li>
-<li>CSS</li>
-<li>JavaScript</li>
-<li>Python</li>
+<a href="https://validator.w3.org/" target="_blank"><li>HTML</li></a>
+<a href="https://jigsaw.w3.org/css-validator/" target="_blank"><li>CSS</li></a>
+<a href="https://www.w3schools.com/js/js_validation.asp" target="_blank"><li>JavaScript</li></a>
+<a href="https://validators.readthedocs.io/en/latest/" target="_blank"><li>Python</li></a>
 </ul>
 
 ## Version Control
