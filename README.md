@@ -3,11 +3,12 @@
 <a href="https://niamh-task-manager-ms3.herokuapp.com/" targer="_blank">Live Link</a>
 
 ## Project Description
-This page was created to s
+This page was created for Piece of Cake staff members to keep control of the tasks that they need to complete. The web page allows users to register for accounts, log in and sign out. When logged in users can see the tasks that need completed, they can add and edit their own tasks as well. For users that have navigated to Piece of Cake's management page instead of their customer page they can simply click the link in the homepage that takes them to their customer friendly page. Their social media links are also included in the carousel on the home page as well.
 ## Who is this application for?
-This 
+This application is for Piece of Cake staff members and owners. The site helps users to lay out daily tasks that are urgent and tasks that need completed but are not needed done urgently.
 ## What does it do?
-This website does 
+This website allows users to create accounts, log in and log out of accounts. Account users can view the tasks that need completed, add their own tasks and edit the tasks that they have created. There's a search bar for users to search tasks rather than having to look through all the tasks listed. This is a helpful tool as tasks can build up and it'll save time for users not having to search through a long list of tasks. Admin users have the ability to create, edit and delete cateogries for tasks aswell.
+ 
 ## User Experience
 ### UX 5 Planes
 ### <em>Strategy</em>
