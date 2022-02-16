@@ -161,12 +161,20 @@ This project has passed the necessary validation tests listed below.
 
 ### Deployment
 <ol>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>I had previously created a Heroku account so I logged into it and created a new app</li>
+<li>Flask was installed through my workspace terminal</li>
+<li>I created an env.py and .gitignore file so I could add secret keys etc that wouldn't show up when pushed to github or Heroku</li>
+<li>requirements.txt file was created</li>
+<li>Procfile was added for Heroku</li>
+<li>I added my github repository name to Heroku so they could link up and added the secret key from the env.py file</li>
+<li>Enabled automatic deployment on Heroku from github so when I pushed my code from my gitpod workspace to my github repository it also pushed the code over to Heroku</li>
 </ol>
+
+
+
+Created requirements.txt file
+Added Procfile for Heroku
+Added, commited and pushed code to Heroku
 
 ### Database
 Mongo DB Flask
