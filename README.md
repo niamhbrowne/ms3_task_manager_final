@@ -66,3 +66,16 @@ The website has been designed to be compatible with all screen sizes, they have 
 <li>For Admin users to delete and edit all users tasks</li>
 <li>For users to view history of tasks they've created on their profile pages</li>
 </ul>
+
+## Technologies Used
+<ul>
+<li>HTML5</li>
+<li>CSS3</li>
+<li>Python</li>
+<li>Javascript</li>
+<li>Gitpod</li>
+<li>Github</li>
+<li>Materialize</li>
+<li>Flask</li>
+<li>Heroku</li>
+</ul>
