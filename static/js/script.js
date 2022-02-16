@@ -1,3 +1,4 @@
+/*--------------------------------------------------- code got from Materialize*/
 $(document).ready(function(){
     $('.sidenav').sidenav({edge: "right"});
     $('.collapsible').collapsible();
@@ -12,6 +13,7 @@ $(document).ready(function(){
             done: "select"
         }
     });
+/*--------------------------------------------------- code got from Code Institute*/
 
     validateMaterializeSelect();
     function validateMaterializeSelect() {
