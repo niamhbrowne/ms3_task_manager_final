@@ -8,7 +8,7 @@ This page was created for Piece of Cake staff members to keep control of the tas
 This application is for Piece of Cake staff members and owners. The site helps users to lay out daily tasks that are urgent and tasks that need completed but are not needed done urgently.
 ## What does it do?
 This website allows users to create accounts, log in and log out of accounts. Account users can view the tasks that need completed, add their own tasks and edit the tasks that they have created. There's a search bar for users to search tasks rather than having to look through all the tasks listed. This is a helpful tool as tasks can build up and it'll save time for users not having to search through a long list of tasks. Admin users have the ability to create, edit and delete cateogries for tasks aswell.
- 
+
 ## User Experience
 ### UX 5 Planes
 ### <em>Strategy</em>
@@ -46,3 +46,23 @@ The page was designed in mind of Piece of Cake and as their colour scheme is pin
 ### <em>Skeleton</em>
 The website has been designed to be compatible with all screen sizes, they have been tested on iPad Pro, iPhone and on normal browser screen. Wireframes for this project can be found <a href="#" target="_blank">here</a>.
 
+## Features
+### Existing Features
+<ul>
+<li>Create user/ registration functionality</li>
+<li>Log in functionality</li>
+<li>Log out functionality</li>
+<li>Add, remove and edit taskfunctionality</li>
+<li>Search bar functionality</li>
+<li>Nav bar</li>
+<li>Carousel with images linking to social media pages and Piece of cakes other website for customer</li>
+<li>List of tasks that users can view when logged into the page</li>
+</ul>
+
+### Features Left to Impliment
+<ul>
+<li>Checklist box option for users to check off</li>
+<li>For admin users to verify users</li>
+<li>For Admin users to delete and edit all users tasks</li>
+<li>For users to view history of tasks they've created on their profile pages</li>
+</ul>
