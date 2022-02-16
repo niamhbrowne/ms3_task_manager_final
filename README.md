@@ -159,3 +159,11 @@ This project has passed the necessary validation tests listed below.
 <li>JavaScript</li>
 <li>Python</li>
 </ul>
+
+## Version Control
+### Gitpod and Github
+
+### Deployment
+
+### Database
+Mongo DB Flask
