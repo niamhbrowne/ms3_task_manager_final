@@ -153,11 +153,10 @@ This project has passed the necessary validation tests listed below.
 ## Version Control
 ### Gitpod and Github
 <ol>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>I created a GitHub repository with the template that Code Institute recommended in the mini project tutorial videos</li>
+<li>I started the gitpod workspace through the GitHub repository</li>
+<li>I saved my work constantly on gitpod workspaces to ensure my work wasn't lost</li>
+<li>I used the commands git add, commit and push throughout my project to save and push my code from gitpod workspaces to my GitHub repository</li>
 </ol>
 
 ### Deployment
