@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" type="text/css">
     {% block styles %}
     {% endblock %}
-    <title>Task Manager</title>
+    <title>Piece of Cake</title>
 </head>
 
 <body>
@@ -21,10 +21,10 @@
         <!--------------Top nav bar-->
         <nav class="nav-extended text-shadow pink lighten-2">
             <div class="nav-wrapper">
-                <a href="{{ url_for('home') }}" class="brand-logo">Piece of Cake Management</a>
+                <a href="{{ url_for('home') }}" class="brand-logo" id="nav-logo">Management</a>
                 <a href="#" data-target="mobile-demo" class="sidenav-trigger right"><i class="fas fa-bars"></i></a>
                 <ul class="right hide-on-med-and-down">
-                    <li><a href="{{ url_for('home') }}"><i class="fas fa-home"></i></li>
+                    <li><a href="{{ url_for('home') }}"><i class="fas fa-home"></i></a></li>
                     {% if session.user %}
                         <li><a href="{{ url_for('get_tasks') }}"><i class="fas fa-list"></i></a></li>
                         <li><a href="{{ url_for('profile', username=session['user']) }}"><i class="fas fa-user"></i></a></li>

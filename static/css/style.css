@@ -58,3 +58,14 @@ h2 {
 .image {
     border-bottom: 4px solid #c2185b;
 }
+
+footer {
+    text-align: center;
+    letter-spacing: 2px;
+    color: #4a148c;
+
+}
+
+#nav-logo {
+    padding-left: 20px;
+}
